@@ -158,7 +158,15 @@ nav a:hover {
    Author's custom styles
    ========================================================================== */
 
-
+.site-logo {
+    background: url(/img/sfdevs-logo.png) no-repeat center center;
+    background-size: 200px 98px;
+    display: inline-block;
+    height:98px;
+    overflow: hidden;
+    text-indent: -9999px;
+    width: 200px;
+}
 
 
 
